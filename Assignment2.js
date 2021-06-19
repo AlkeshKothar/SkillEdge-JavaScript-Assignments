@@ -24,7 +24,7 @@ let resetbtn = document.getElementById('reset')
 
 
 
-
+//event for start
 
 
 startbtn.addEventListener('click', function() {
