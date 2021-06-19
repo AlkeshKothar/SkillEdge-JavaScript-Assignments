@@ -1,0 +1,66 @@
+#tag1 {
+    padding-left: 150px;
+}
+
+#tag {
+    padding-top: 9px;
+    color: steelblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+
+#hometag {
+    color: white;
+    font-size: x-large;
+    padding-left: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#container li {
+    padding-top: 15px;
+    font-size: 15px;
+    padding-top: 3px;
+}
+
+.container-fluid {
+    margin-left: 10px;
+}
+
+#tag1,
+#tag2,
+#tag3,
+#tag4,
+#tag5 {
+    padding-top: 15px;
+    padding-left: 30px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.accordion {
+    width: 80%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.accordion-item {
+    background-color: rgba(245, 233, 233, 0.993);
+}
+
+h4 {
+    margin-left: 10%;
+    margin-top: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    margin-top: 80px;
+    font-size: 15px;
+}
+
+p strong {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}

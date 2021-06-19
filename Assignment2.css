@@ -1,0 +1,62 @@
+    .container {
+        background-color: aliceblue;
+        width: 60%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    
+    #heading {
+        font-size: 30px;
+        margin-left: 10%;
+        padding-top: 3%;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    h1 {
+        font-size: 40px;
+        margin-left: 10%;
+        padding-top: 2%;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: steelblue;
+    }
+    
+    .container button {
+        background-color: steelblue;
+        border-radius: 4px;
+    }
+    
+    .digital-clock label {
+        margin-left: 10%;
+        font-size: 30px;
+    }
+    
+    .Stop-clock button,
+    label {
+        margin-top: 5px;
+    }
+    
+    .Stop-clock button {
+        width: 80px;
+        color: white;
+    }
+    
+    .Stop-clock label {
+        margin-left: 1%;
+        font-size: 30px;
+    }
+    
+    #start {
+        margin-left: 10%;
+    }
+    
+    #stop {
+        margin-left: 1%;
+    }
+    
+    #reset {
+        margin-left: 1%;
+    }
+    
+    .Stop-clock {
+        padding-bottom: 2%;
+    }

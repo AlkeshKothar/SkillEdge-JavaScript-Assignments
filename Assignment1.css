@@ -1,0 +1,69 @@
+.Pcontainer {
+    background-color: aliceblue;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+}
+
+h1 {
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+}
+
+.pname {
+    margin-left: 10%;
+    width: 20%;
+    margin-top: 25px;
+    padding-top: 10px;
+}
+
+.ptext {
+    width: 40%;
+    margin-right: 10%;
+}
+
+#ptext4 {
+    margin-top: 10px;
+    margin-top: 30px;
+}
+
+.pbutton {
+    width: 100%;
+}
+
+.pbutton button {
+    width: 100px;
+    margin-left: 10%;
+    height: 30px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.Poutput {
+    margin-top: 15px;
+}
+
+.Poutput th {
+    padding-left: 90px;
+}
+
+.Panswers {
+    margin-top: 15px;
+}
+
+.Panswers th {
+    padding-left: 90px;
+}
+
+.Ptager {
+    color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+    height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
