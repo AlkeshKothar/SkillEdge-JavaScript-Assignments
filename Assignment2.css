@@ -1,7 +1,6 @@
     .container {
         background-color: aliceblue;
         width: 60%;
-        margin-top: 5%;
         margin-bottom: 5%;
     }
     
@@ -59,4 +58,23 @@
     
     .Stop-clock {
         padding-bottom: 2%;
+    }
+    
+    .text-on-pannel {
+        background: #fff none repeat scroll 0 0;
+        height: auto;
+        margin-left: 110px;
+        padding: 3px 5px;
+        position: absolute;
+        margin-top: -47px;
+        border-radius: 8px;
+    }
+    
+    .panel {
+        /* for text on pannel */
+        margin-top: 27px !important;
+    }
+    
+    .panel-body {
+        padding-top: 30px !important;
     }
