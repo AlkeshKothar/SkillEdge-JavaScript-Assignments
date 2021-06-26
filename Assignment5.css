@@ -1,0 +1,25 @@
+.container {
+    background-color: aliceblue;
+    width: 80%;
+    height: 60%;
+    align-self: center;
+}
+
+.jumbotron {
+    width: 100%;
+}
+
+.image {
+    width: 100%;
+    text-align: center;
+}
+
+.siwtcher {
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.button123 {
+    text-align: center;
+}
