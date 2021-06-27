@@ -45,40 +45,35 @@
     </nav>
 
     <h1 style="margin-left: 10%; margin-top: 2%; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Assignment 4</h1>
-    <div class="container jumbotron">
-
-
-        <div class="dropdown show">
-            <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Dropdown link
-            </a>
-
-            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <a class="dropdown-item">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-        </div>
-
-        <div class="dropdown show">
-            <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Dropdown link
-            </a>
-
-            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <a class="dropdown-item">Action</a>
-                <a class="dropdown-item" href="dropdown-item">Another action</a>
-                <a class="dropdown-item" href="dropdown-item">Something else here</a>
-            </div>
+    <h1 id="h11">Countries, States, Districts dropdown values.</h1>
+    <div class="container">
+        <div class="tag">Country</div>
+        <div class="tagger">
+            <select id="input" class="tagger " onchange="country_function() ">
+            <option>Select Country</option>
+            <option>India</option>
+            <option>USA</option>
+            </select>
         </div>
 
 
+        <div class="tag">State</div>
+        <div class="tagger ">
+            <select id="output" class="tagger " onchange="state_function() ">
+                <option>Select State</option></select>
+        </div>
+
+        <div class="tag">City</div>
+        <div class="tagger">
+            <select id="output2" class="tagger">
+                <option>Select City</option></select>
+        </div>
 
 
     </div>
+    <script src="Assignment4.js "></script>
 
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js " integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4 " crossorigin="anonymous "></script>
 
 
 </body>

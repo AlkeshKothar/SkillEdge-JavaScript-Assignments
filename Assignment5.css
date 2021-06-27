@@ -1,7 +1,7 @@
 .container {
     background-color: aliceblue;
     width: 80%;
-    height: 60%;
+    height: 55%;
     align-self: center;
 }
 
@@ -12,6 +12,7 @@
 .image {
     width: 100%;
     text-align: center;
+    padding-top: 2%;
 }
 
 .siwtcher {
@@ -22,4 +23,11 @@
 
 .button123 {
     text-align: center;
+}
+
+#h11 {
+    margin-left: 10%;
+    margin-top: 2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: steelblue;
 }
