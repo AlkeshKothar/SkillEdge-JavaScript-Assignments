@@ -1,0 +1,27 @@
+.jumbotron {
+    height: 60%;
+    margin-top: 3%;
+    width: 70%;
+    margin-left: 15%;
+}
+
+body {
+    background-color: white;
+}
+
+.positiontagger {
+    margin-left: 10%;
+    width: 60%;
+}
+
+.form-group label {
+    margin-left: 10%;
+}
+
+.finaltagger {
+    margin-top: 2%;
+}
+
+.finaltagger label {
+    margin-left: 10%;
+}

@@ -1,0 +1,56 @@
+.rightside {
+    width: 48%;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.card {
+    margin-left: 10%;
+}
+
+#employessh1 {
+    margin-left: 9%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.middle {
+    width: 10%;
+    margin-left: 2%;
+}
+
+.middlelabel {
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.middlelabel2 {
+    padding-top: 24px;
+    font-size: 20px;
+}
+
+.progress {
+    height: 30px;
+    margin-top: 3%;
+}
+
+.progress2 {
+    height: 30px;
+    margin-top: 7%;
+}
+
+.cardimage {
+    height: 250px;
+}
+
+.desginationh5 {
+    font-size: medium;
+}
+
+.jumbotronlast {
+    margin-top: 5%;
+    margin-bottom: 2%;
+}

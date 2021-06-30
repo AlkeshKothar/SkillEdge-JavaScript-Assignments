@@ -1,0 +1,39 @@
+#logoid {
+    height: 50px;
+    width: 70px;
+}
+
+#logoid2 {
+    height: 40px;
+    padding-top: 6px;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+#tag {
+    padding-left: 2%;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.jumbotron {
+    background-color: aliceblue;
+}
+
+.divinjumbo {
+    width: 30%;
+}
+
+.taggingoflist {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: black;
+}
+
+.doctors1 {
+    margin-left: 5%;
+}

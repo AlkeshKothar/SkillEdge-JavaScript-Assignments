@@ -1,0 +1,30 @@
+.locationslide {
+    height: 500px;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.locationtag {
+    font-size: 90px;
+    color: black;
+    text-decoration: double;
+    text-decoration: underline;
+}
+
+.locationdesp {
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+
+.cardimageforlocation {
+    height: 300px;
+}
